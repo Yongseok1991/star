@@ -1,0 +1,7 @@
+[INFO ] 2023-01-09 10:41:46.807 [http-nio-9500-exec-8] StarFilter - ----Request(/manifest.json) filter-------
+[INFO ] 2023-01-09 10:41:46.827 [http-nio-9500-exec-8] StarFilter - ----Request(/manifest.json) filter-------
+[INFO ] 2023-01-09 10:41:46.832 [http-nio-9500-exec-6] StarFilter - ----Request(/logo192.png) filter-------
+[INFO ] 2023-01-09 10:41:46.836 [http-nio-9500-exec-6] StarFilter - ----Request(/logo192.png) filter-------
+[INFO ] 2023-01-09 10:41:51.278 [http-nio-9500-exec-9] StarFilter - ----Request(/api/list/1) filter-------
+[INFO ] 2023-01-09 10:41:51.278 [http-nio-9500-exec-9] KwareUserRestController - KwareUserRestController::getUser(model, id)
+[INFO ] 2023-01-09 10:41:51.355 [http-nio-9500-exec-9] StarFilter - ----Request(/api/list/1) filter-------

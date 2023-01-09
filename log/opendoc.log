@@ -1,0 +1,62 @@
+2022-12-28 11:40:50.632 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Starting StarApplication using Java 11.0.16.1 on DESKTOP-QH7DASI with PID 25388 (D:\star\star\build\classes\java\main started by kware in D:\star)
+2022-12-28 11:40:50.640 - INFO  [  restartedMain] o.s.b.SpringApplication        : No active profile set, falling back to 1 default profile: "default"
+2022-12-28 11:40:50.673 - INFO  [  restartedMain] o.s.b.l.DeferredLog            : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-12-28 11:40:50.673 - INFO  [  restartedMain] o.s.b.l.DeferredLog            : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-12-28 11:40:51.215 - INFO  [  restartedMain] epositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-12-28 11:40:51.272 - INFO  [  restartedMain] epositoryConfigurationDelegate : Finished Spring Data repository scanning in 48 ms. Found 2 JPA repository interfaces.
+2022-12-28 11:40:51.782 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat initialized with port(s): 9500 (http)
+2022-12-28 11:40:51.799 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing ProtocolHandler ["http-nio-9500"]
+2022-12-28 11:40:51.800 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting service [Tomcat]
+2022-12-28 11:40:51.801 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting Servlet engine: [Apache Tomcat/9.0.69]
+2022-12-28 11:40:51.881 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing Spring embedded WebApplicationContext
+2022-12-28 11:40:51.881 - INFO  [  restartedMain] letWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1207 ms
+2022-12-28 11:40:52.007 - INFO  [  restartedMain] o.h.j.i.u.LogHelper            : HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-12-28 11:40:52.062 - INFO  [  restartedMain] o.h.Version                    : HHH000412: Hibernate ORM core version 5.6.14.Final
+2022-12-28 11:40:52.185 - INFO  [  restartedMain] .a.c.r.j.JavaReflectionManager : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-12-28 11:40:52.276 - INFO  [  restartedMain] c.z.h.HikariDataSource         : HikariPool-1 - Starting...
+2022-12-28 11:40:52.430 - INFO  [  restartedMain] c.z.h.HikariDataSource         : HikariPool-1 - Start completed.
+2022-12-28 11:40:52.449 - INFO  [  restartedMain] o.h.d.Dialect                  : HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2022-12-28 11:40:53.045 - INFO  [  restartedMain] e.t.j.p.i.JtaPlatformInitiator : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-12-28 11:40:53.048 - INFO  [  restartedMain] stractEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-12-28 11:40:53.361 - WARN  [  restartedMain] figuration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-12-28 11:40:53.515 - WARN  [  restartedMain] o.t.t.TemplateMode             : [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2022-12-28 11:40:53.937 - INFO  [  restartedMain] b.d.a.OptionalLiveReloadServer : LiveReload server is running on port 35729
+2022-12-28 11:40:53.959 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting ProtocolHandler ["http-nio-9500"]
+2022-12-28 11:40:53.984 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat started on port(s): 9500 (http) with context path ''
+2022-12-28 11:40:53.993 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Started StarApplication in 3.644 seconds (JVM running for 8.42)
+2022-12-28 13:00:39.753 - INFO  [ionShutdownHook] stractEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-12-28 13:00:39.757 - INFO  [ionShutdownHook] c.z.h.HikariDataSource         : HikariPool-1 - Shutdown initiated...
+2022-12-28 13:00:39.760 - INFO  [ionShutdownHook] c.z.h.HikariDataSource         : HikariPool-1 - Shutdown completed.
+2022-12-28 13:00:44.582 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Starting StarApplication using Java 11.0.16.1 on DESKTOP-QH7DASI with PID 20812 (D:\star\star\build\classes\java\main started by kware in D:\star)
+2022-12-28 13:00:44.589 - INFO  [  restartedMain] o.s.b.SpringApplication        : No active profile set, falling back to 1 default profile: "default"
+2022-12-28 13:00:44.621 - INFO  [  restartedMain] o.s.b.l.DeferredLog            : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-12-28 13:00:44.621 - INFO  [  restartedMain] o.s.b.l.DeferredLog            : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-12-28 13:00:45.131 - INFO  [  restartedMain] epositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-12-28 13:00:45.186 - INFO  [  restartedMain] epositoryConfigurationDelegate : Finished Spring Data repository scanning in 47 ms. Found 2 JPA repository interfaces.
+2022-12-28 13:00:45.649 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat initialized with port(s): 9500 (http)
+2022-12-28 13:00:45.664 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing ProtocolHandler ["http-nio-9500"]
+2022-12-28 13:00:45.664 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting service [Tomcat]
+2022-12-28 13:00:45.666 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting Servlet engine: [Apache Tomcat/9.0.69]
+2022-12-28 13:00:45.729 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Initializing Spring embedded WebApplicationContext
+2022-12-28 13:00:45.729 - INFO  [  restartedMain] letWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1107 ms
+2022-12-28 13:00:45.817 - INFO  [  restartedMain] o.h.j.i.u.LogHelper            : HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-12-28 13:00:45.855 - INFO  [  restartedMain] o.h.Version                    : HHH000412: Hibernate ORM core version 5.6.14.Final
+2022-12-28 13:00:45.960 - INFO  [  restartedMain] .a.c.r.j.JavaReflectionManager : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-12-28 13:00:46.022 - INFO  [  restartedMain] c.z.h.HikariDataSource         : HikariPool-1 - Starting...
+2022-12-28 13:00:46.151 - INFO  [  restartedMain] c.z.h.HikariDataSource         : HikariPool-1 - Start completed.
+2022-12-28 13:00:46.160 - INFO  [  restartedMain] o.h.d.Dialect                  : HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2022-12-28 13:00:46.571 - INFO  [  restartedMain] e.t.j.p.i.JtaPlatformInitiator : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-12-28 13:00:46.575 - INFO  [  restartedMain] stractEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-12-28 13:00:46.856 - WARN  [  restartedMain] figuration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-12-28 13:00:46.980 - WARN  [  restartedMain] o.t.t.TemplateMode             : [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2022-12-28 13:00:47.588 - INFO  [  restartedMain] b.d.a.OptionalLiveReloadServer : LiveReload server is running on port 35729
+2022-12-28 13:00:47.606 - INFO  [  restartedMain] o.a.j.l.DirectJDKLog           : Starting ProtocolHandler ["http-nio-9500"]
+2022-12-28 13:00:47.624 - INFO  [  restartedMain] o.s.b.w.e.t.TomcatWebServer    : Tomcat started on port(s): 9500 (http) with context path ''
+2022-12-28 13:00:47.632 - INFO  [  restartedMain] o.s.b.StartupInfoLogger        : Started StarApplication in 3.355 seconds (JVM running for 4.713)
+2022-12-28 13:00:58.490 - INFO  [nio-9500-exec-1] o.a.j.l.DirectJDKLog           : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-12-28 13:00:58.490 - INFO  [nio-9500-exec-1] o.s.w.s.FrameworkServlet       : Initializing Servlet 'dispatcherServlet'
+2022-12-28 13:00:58.492 - INFO  [nio-9500-exec-1] o.s.w.s.FrameworkServlet       : Completed initialization in 2 ms
+2022-12-28 13:01:02.835 - INFO  [nio-9500-exec-2] .s.c.u.KwareUserRestController : KwareUserRestController::getUser(model,id)
+2022-12-28 13:01:24.109 - INFO  [ionShutdownHook] stractEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-12-28 13:01:24.111 - INFO  [ionShutdownHook] c.z.h.HikariDataSource         : HikariPool-1 - Shutdown initiated...
+2022-12-28 13:01:24.116 - INFO  [ionShutdownHook] c.z.h.HikariDataSource         : HikariPool-1 - Shutdown completed.
